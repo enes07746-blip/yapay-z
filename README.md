@@ -65,7 +65,6 @@ Tüm veri setleri aşağıdaki ortak yapıya dönüştürülmüştür:
 
 ```
 ├── analiz.ipynb              # Ana analiz notebook'u (Zipf + Preprocessing)
-├── preprocessing.py          # Veri ön işleme script'i
 ├── README.md                 # Bu dosya
 │
 ├── data/                     # Ham veri dosyaları
